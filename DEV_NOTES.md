@@ -26,3 +26,6 @@ Personal development log — notes, findings, and ongoing work.
 - Verified API endpoint response schema
 - Added basic retry logic for network requests
 - Tested build on clean environment
+
+## 2026-03-23
+- Cross-checked behaviour against spec
