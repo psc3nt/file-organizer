@@ -34,3 +34,8 @@ Personal development log — notes, findings, and ongoing work.
 - Added basic retry logic for network requests
 - Fixed minor edge case in input handling
 - Reorganised test fixtures
+
+## 2026-04-06
+- Updated CI cache strategy
+- Updated .gitignore to exclude build artifacts
+- Added .editorconfig for consistent formatting
